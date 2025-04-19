@@ -24,8 +24,7 @@ body{
   width: 337px;
   height: 250px;
   text-align: center;
-  margin: 
-  border:2px inset red;
+  border:2px inset black;
   border-radius:30px 20px;
   justify-items:center;
 }
@@ -49,10 +48,9 @@ a{
   background-color: greenyellow;
   text-align: center;
   margin: auto;
- 
   padding: 10px;
   border: 2px inset black;
-  border-radius: 20px
+  border-radius: 20px;
   
 
 }
